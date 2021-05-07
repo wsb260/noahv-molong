@@ -27,7 +27,7 @@
     "noahv-mockup": "^1.0.3",
     "noahv-request": "^1.0.2",
     "sortablejs": "^1.10.1",
-    "underscore": "^1.9.1",
+    "underscore": "^1.12.1",
     "vue": "^2.6.10",
     "vue-router": "^3.0.3",
     "vuedraggable": "^2.23.2",
