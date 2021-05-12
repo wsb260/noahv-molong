@@ -17,7 +17,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "babel-polyfill": "^6.26.0",
-    "codemirror": "5.45.0",
+    "codemirror": "5.58.2",
     "echarts": "^4.6.0",
     "iview": "^3.3.0",
     "koa": "^2.11.0",
