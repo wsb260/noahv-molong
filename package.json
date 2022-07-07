@@ -21,7 +21,7 @@
     "echarts": "^4.6.0",
     "iview": "^3.3.0",
     "koa": "^2.11.0",
-    "moment": "^2.24.0 ",
+    "moment": "^2.29.4",
     "noahv-component": "^1.1.7",
     "noahv-core": "^1.0.8",
     "noahv-mockup": "^1.0.3",
